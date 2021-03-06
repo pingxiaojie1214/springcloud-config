@@ -8,7 +8,7 @@ server:
 
 mybatis:
   #配置别名,pojo的包名
-  type-aliases-package: com.yese.pojo
+  type-aliases-package: com.ping.pojo
   #mapper.xml文件的路径
   mapper-locations: classpath:mybatis/mapper/*.xml
   #mybatis核心配置文件
@@ -50,7 +50,7 @@ server:
 
 mybatis:
   #配置别名,pojo的包名
-  type-aliases-package: com.yese.pojo
+  type-aliases-package: com.ping.pojo
   #mapper.xml文件的路径
   mapper-locations: classpath:mybatis/mapper/*.xml
   #mybatis核心配置文件
